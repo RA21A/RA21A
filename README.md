@@ -1,55 +1,107 @@
-<h1 align="center">
-  Hi, I'm Richard Alvin
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="Waving hand" />
-</h1><p align="center">
-  <strong>Flutter Developer | QA Tester | Computer Science (Cyber Security) Graduate</strong>
-</p><p align="center">
-  <a href="https://github.com/RA21A">GitHub</a> •
-  <a href="https://www.linkedin.com/in/richard-alvin-gunawan">LinkedIn</a> •
-  <a href="mailto:richardalvin21a@gmail.com">Email</a> •
-  <a href="https://discord.com/users/r.a.21a">Discord</a>
-</p>👨‍💻 About Me
-I'm a Computer Science (Cyber Security) graduate from Asia Pacific University, Malaysia, with internship experience in software quality assurance and Flutter mobile app development. I enjoy building user-friendly applications, identifying software issues, and improving code quality through testing and refactoring.
-- 🌍 Based in Indonesia
-- 🌱 I'm currently learning Cyber Security & QA Automation
-- 💼 Previously worked as a QA Tester Intern at Elgibor Solusi Digital and a Software Engineer Intern at Alva Production
-- 📫 Reach me at richardalvin21a@gmail.com
-🛠️ Technical Skills
-Area	Skills & Tools
-Mobile Development	Flutter, Dart, Mobile UI Development, Hive Local Storage, Debugging, Code Refactoring
-Software Quality Assurance	Manual Testing, Functional Testing, UI Testing, Website Testing, Test Cases, Bug Identification, Test Result Reporting
-Security & Networking	Kali Linux, Nmap, Nikto, Cisco Packet Tracer, VLANs, IP Addressing, Network Configuration (academic projects)
-Other Tools	GitHub, Microsoft Excel, VirtualBox, VS Code
+<div align="center">
+  <h1>Hi there, I'm Richard Alvin Gunawan 👋</h1>
+  <h3>QA Tester | Flutter Developer | Cyber Security Graduate</h3>
+  <p>
+    Passionate about building reliable, user-friendly applications and continuously improving my skills in software quality assurance and cybersecurity.
+  </p>
+  <p>
+    <a href="https://github.com/RA21A"><img src="https://img.shields.io/badge/GitHub-RA21A-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/richard-alvin-gunawan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:richardalvin21a@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
+---
 
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-</p>💼 Internship Experience
-QA Tester Intern — Elgibor Solusi Digital
-April 2026 – September 2026
-- Performed manual functional and UI testing for pre-release website features.
-- Executed test cases, documented test results, and identified issues prior to release.
-Software Engineer Intern — Alva Production
-July 2023 – November 2023
-- Developed and modified mobile UI components using Flutter and Dart.
-- Refactored Hive local storage logic to improve code organization and maintainability.
-🚀 Featured Projects
-📍 Absensiku — Flutter Attendance App
-Flutter-based employee attendance app featuring GPS location validation, front-camera capture, authentication, session persistence, attendance history, profile management, and API-connected attendance submission.
-🔐 CEH CTF Final Project — RickdiouslyEasy
-Completed a CTF-style assessment of a Linux virtual machine using tools including Nmap, Nikto, DirBuster, Netcat, and Hydra. Captured 9 flags (130 points) and progressed to root-level access in the lab environment.
-🌐 Network+ Packet Tracer Final Project
-Designed a simulated enterprise network with IP addressing, VLAN segmentation, trunking, inter-VLAN routing, DHCP relay, and switch port security using Cisco Packet Tracer.
-🎓 Education
-Bachelor of Science (Honours) in Computer Science (Cyber Security)
-Asia Pacific University, Malaysia | 2021–2025
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RA21A&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub contribution streak" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RA21A&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top languages" />
-</p>
+### 👨‍💻 About Me
+
+- 🎓 **Computer Science (Cyber Security) graduate** from **Asia Pacific University, Malaysia** (2025).
+- 💼 Previously a **QA Tester Intern** at **Elgibor Solusi Digital** (Apr–Sep 2026) and a **Software Engineer Intern** at **Alva Production** (Jul–Nov 2023).
+- 📱 Experienced in **Flutter & Dart**, mobile UI development, debugging, and code refactoring.
+- 🧪 Hands-on experience in **manual functional testing, UI testing, test case documentation, and bug reporting**.
+- 🧠 **I'm currently learning Cyber Security & QA Automation.**
+- 🌍 Based in **Indonesia**.
+- 📫 Reach me at **[richardalvin21a@gmail.com](mailto:richardalvin21a@gmail.com)**.
+
+### 🛠️ Technical Skills
+
+**Mobile Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC107?style=flat-square&logoColor=black)
+
+**Software Testing & QA**
+
+`Manual Testing` · `Functional Testing` · `UI Testing` · `Test Case Documentation` · `Bug Reporting`
+
+**Cybersecurity, Networking & Tools**
+
+`Kali Linux` · `Nmap` · `Cisco Packet Tracer` · `VLANs` · `GitHub` · `VS Code` · `Microsoft Excel`
+
+**Currently Learning**
+
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+`QA Automation` · `Cyber Security` · `UI & API Test Automation`
+
+### 💼 Internship Experience
+
+**QA Tester Intern — Elgibor Solusi Digital**  
+*Apr 2026 – Sep 2026 | Indonesia*
+
+- Performed manual functional and UI testing on pre-release website features.
+- Executed test cases, recorded results, and documented defects to support release readiness.
+
+**Software Engineer Intern — Alva Production**  
+*Jul 2023 – Nov 2023 | Malaysia*
+
+- Developed and updated mobile UI components with Flutter and Dart.
+- Refactored Hive local-storage code to improve structure and maintainability.
+
+### 🚀 Featured Projects
+
+#### 📱 [Absensiku — Flutter Attendance App](https://github.com/RA21A/Absensi_App)
+
+Flutter-based employee attendance app featuring GPS-based location validation, front-camera capture, authentication, attendance history, profile management, and API-connected attendance submission.
+
+**Stack:** `Flutter` · `Dart` · `REST API`
+
+#### 🧪 [QA Automation Exercise — Learning Project](https://github.com/RA21A/QA-Automation-Exercise)
+
+A Cypress and JavaScript practice repository for structuring UI and API test automation, including Page Object Model, test data management, test documentation, and CI/CD preparation. **Work in progress; documented test targets are not represented as completed results.**
+
+**Stack:** `Cypress` · `JavaScript` · `GitHub Actions`
+
+#### 🔐 CEH CTF Final Project — RickdiouslyEasy
+
+Assessed a Linux VM in a CTF environment using tools such as Nmap, Nikto, DirBuster, Netcat, FTP, and SSH. Captured **9 flags (130 points)** through enumeration, credential testing, and privilege escalation.
+
+**Focus:** `Enumeration` · `Vulnerability Assessment` · `Linux Security`
+
+#### 🌐 Network+ Packet Tracer Final Project
+
+Built a simulated enterprise network with IP addressing, VLAN segmentation, trunking, inter-VLAN routing, DHCP relay, and port security.
+
+**Tools:** `Cisco Packet Tracer`
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RA21A&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" height="170" />
+  <img src="https://streak-stats.demolab.com?user=RA21A&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="170" />
+</div>
+
+### 📄 Resume & Contact
+
+- 📄 [View my resume (PDF)](./Resume_Richard%20Alvin.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/richard-alvin-gunawan)
+- 🧑‍💻 [GitHub](https://github.com/RA21A)
+- 💬 [Discord](https://discord.com/users/r.a.21a)
+
+---
+
+<div align="center">
+  <i>Always learning, improving, and building.</i>
+</div>
